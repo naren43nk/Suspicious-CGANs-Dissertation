@@ -1,0 +1,1 @@
+MMD Score (RBF kernel): 1.4544

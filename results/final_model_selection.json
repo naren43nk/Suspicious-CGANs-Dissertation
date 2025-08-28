@@ -1,0 +1,8 @@
+{
+  "Best_Performance_Model": "Real+CGAN",
+  "Best_Privacy_Utility_Model": "CGAN",
+  "Worst_Drift_Quarter": "2021Q3",
+  "Max_PSI": 0.7048,
+  "Most_Fairness_Drifted_Typology": 7,
+  "Final_Selected_Model": "Real+CGAN Augmentation"
+}

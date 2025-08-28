@@ -1,0 +1,17 @@
+
+===============================
+Phase 3: Classifier Evaluation
+===============================
+
+✔ Classifiers evaluated: Real, Real+CGAN, ROS, TSTR
+✔ Metrics computed: F1 Macro, AUC (OvR), Confusion Matrices
+✔ Model reports + plots saved under: ../results/ and ../plots/
+✔ Evaluation CSV exported: ../results/classifier_comparison_metrics.csv
+✔ Diagnostic visualizations completed:
+   - Confusion Matrices
+   - Bar chart (F1 vs AUC)
+   - Prediction confidence distribution
+✔ Ready to transition to Phase 4:
+   → Drift analysis
+   → UMAP cluster visualization
+   → Explainability

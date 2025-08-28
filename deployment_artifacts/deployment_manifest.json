@@ -1,0 +1,11 @@
+[
+  "../deployment_artifacts/final_xgb_real_cgan.pkl",
+  "../deployment_artifacts/final_model_features.json",
+  "../deployment_artifacts/final_model_performance.csv",
+  "../deployment_artifacts/final_privacy_utility.csv",
+  "../deployment_artifacts/final_drift_f1_scores.csv",
+  "../deployment_artifacts/final_fairness_summary.csv",
+  "../deployment_artifacts/final_model_selection.json",
+  "../deployment_artifacts/final_shap_baseline.npy",
+  "../deployment_artifacts/final_shap_sample.csv"
+]

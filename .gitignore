@@ -1,0 +1,33 @@
+# OS / Editor files
+.DS_Store
+*.swp
+*.log
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
+
+# Large data files
+*.csv
+*.tsv
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.h5
+*.db
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Virtual environments
+.venv/
+env/
+venv/
+*.egg-info/
+

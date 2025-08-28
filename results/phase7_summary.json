@@ -1,0 +1,17 @@
+{
+  "Top_Changed_Feature": "Month",
+  "Most_Drifted_Typology_DP": 7,
+  "Most_Drifted_Typology_EO": 7,
+  "Mean_DP_Gap": -0.2569,
+  "Mean_EO_Gap": -0.2569,
+  "Top_Features_Correlated_With_DP_Gap": {
+    "Month": 0.7330333374273856,
+    "Amount": 0.7242530243687673,
+    "Sender_account": 0.7115859342789996
+  },
+  "Top_Features_Correlated_With_EO_Gap": {
+    "Month": 0.7330333374273856,
+    "Amount": 0.7242530243687673,
+    "Sender_account": 0.7115859342789996
+  }
+}
