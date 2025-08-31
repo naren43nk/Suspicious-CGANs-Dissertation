@@ -4,7 +4,7 @@
 ---
 
 ## Project Overview
-This repository contains the research artefacts, code, and experimental outputs for my MSc Data Science dissertation at the University of Surrey.  
+This repository contains the research artifacts, code, and experimental outputs for my MSc Data Science dissertation at the University of Surrey.  
 The dissertation investigates whether **Conditional Generative Adversarial Networks (CGANs)** with typology conditioning can improve suspicious transaction detection under **extreme class imbalance** in the **SAML-D** dataset (synthetic AML benchmark dataset).
 
 Key contributions include:
@@ -18,14 +18,16 @@ Key contributions include:
 ---
 
 ## Repository Structure
+
+```text
 Suspicious-CGANs-Dissertation/
 │
-├── notebooks/ # Jupyter notebooks for each experimental phase
-├── results/ # Evaluation outputs (CSV metrics, summary reports)
-├── plots/ # Figures and visualizations (UMAP, SHAP, drift curves)
-├── .gitignore # Excludes large datasets/models
-└── README.md # Project overview (this file)
-
+├── notebooks/      # Jupyter notebooks for each experimental phase
+├── results/        # Evaluation outputs (CSV metrics, summary reports)
+├── plots/          # Figures and visualizations (UMAP, SHAP, drift curves)
+├── .gitignore      # Excludes large datasets/models
+└── README.md       # Project overview (this file)
+```
 ---
 
 ## Methodology
@@ -69,7 +71,7 @@ pip install -r requirements.txt
 
 3.Navigate to the notebooks/ folder and follow the experimental phases in order.
 
-##Citation
+## Citation
 
 If referencing this work in academic contexts:
 
